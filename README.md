@@ -3,7 +3,7 @@
 
 - 🔭 Sou analista de Sistemas Jr.
 - 📊 Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
-- ⚡ Fato engraçado? Em status de planejamento mais um prototipo de jogo na Unity 🤫
+- ⚡ Fato engraçado? Planejando desenvolver do 0 mais um prototipo de jogo na Unity 🤫
 
   <div align="center">
   <a href="https://github.com/Nineyamichan">
