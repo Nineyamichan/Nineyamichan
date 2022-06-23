@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou analista de Sistemas Jr.
-- 🌱 Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
+-  Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
 - ⚡ Fato engraçado? Em status de planejamento mais um prototipo de jogo na Unity 🤫
 
   <div align="center">
