@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou analista de Sistemas Jr.
--  Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
+- 📊 Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
 - ⚡ Fato engraçado? Em status de planejamento mais um prototipo de jogo na Unity 🤫
 
   <div align="center">
@@ -29,7 +29,5 @@
   <a href="https://discord.gg/nineyamichan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:aline-alvesbatista@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-alves-4a8705174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
   </div>
                 
