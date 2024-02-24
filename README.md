@@ -1,9 +1,9 @@
-## Olá, meu nome é Aline Alves 👾
+## Olá, meu nome é Aline Alves 👾 E seja bem vindo(a) ao meu GitHub.
 
 
 - 🔭 Sou analista de Sistemas Jr.
-- 📊 Cursando MBA em Data Science and Analytics, e uma eterna estudante de programação. 
-- ⚡ Fato engraçado? Planejando desenvolver do 0 mais um prototipo de jogo para Android na Unity 🤫
+- 📊 Pós-graduada em MBA demData Science and Analytics, para sempre uma estudante de programação. 
+- ⚡ Curiosidade? Já pensando em quando começar meu mestrado. 🤫
 
   <div align="center">
   <a href="https://github.com/Nineyamichan">
