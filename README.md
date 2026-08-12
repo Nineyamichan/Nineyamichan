@@ -1,9 +1,9 @@
 ## Olá, meu nome é Aline Alves 👾 E seja bem vindo(a) ao meu GitHub.
 
 
-- 🔭 Sou analista de Sistemas;
-- 📊 Pós-graduada em MBA demData Science and Analytics e cursando Engenharia de Software;
-- ⚡ Curiosidade? Já pensando em quando começar meu mestrado. 🤫
+- 🔭 Sou analista de Sistemas Pleno;
+- 📊 Pós-graduada em MBA demData Science and Analytics, Engenharia de Software e cursando Engenharia de IA Aplicada;
+- ⚡ Curiosidade pessoal? Platinando Red Dead Redemption 2. 🤫
   
   <div  style="display: inline_block"><br>
   <img align="center" alt="yami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
